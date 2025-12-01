@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大切",
+  "base_artist": "FUNKY MONKEY BΛBY'S",
+  "createdAt": "2025-12-01T01:00:58.772894Z",
+  "candidates": [
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "大切",
+      "artist": "FUNKY MONKEY BΛBY'S",
+      "has_synced": false,
+      "path": "select/pl_大切_FUNKY_MONKEY_BΛBY'S.txt"
+    }
+  ]
+}
